@@ -352,8 +352,8 @@ MigrationBackup/
 
 #gitignore videos
 Advanced Deep Learning with Keras/*.mp4
-Introduction to Deep Learning with PyTorch/
-Image Processing with Keras in Python/
-Introduction to Deep Learning in Python/
-Introduction to Deep Learning with Keras/
-Introduction to TensorFlow in Python/
+Introduction to Deep Learning with PyTorch/*.mp4
+Image Processing with Keras in Python/*.mp4
+Introduction to Deep Learning in Python/*.mp4
+Introduction to Deep Learning with Keras/*.mp4
+Introduction to TensorFlow in Python/*.mp4
