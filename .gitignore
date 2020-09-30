@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+#gitignore videos
+Advanced Deep Learning with Keras/*.mp4
+Introduction to Deep Learning with PyTorch/
+Image Processing with Keras in Python/
+Introduction to Deep Learning in Python/
+Introduction to Deep Learning with Keras/
+Introduction to TensorFlow in Python/
